@@ -7,11 +7,10 @@ class Dog
   def name
     @this_dogs_name
   end
+
+
+  def bark
+    puts "Woof!"
+  end
   
-
-def bark
-  puts "Woof!"
-end
-
-
 end
